@@ -60,8 +60,6 @@
    - Modified layer depth, pooling strategy, and output dimensions.
    - Trained from scratch to high accuracy while maintaining model efficiency.
 
-5. **Bonus Exploration**
-   - Implemented **ResNet-34** and performed **model interpretability** using PyTorch hooks to visualize learned features and activations.
 
 ### Tools & Techniques
 - **Frameworks:** PyTorch, Torchinfo, Torchmetrics, Matplotlib, Seaborn  
@@ -77,6 +75,6 @@
 | Core Libraries | NumPy, Pandas, Matplotlib, Seaborn |
 | ML Framework | PyTorch |
 | Metrics | Torchmetrics, scikit-learn (for metrics only) |
-| Environment | Google Colab, UB CCR GPU cluster, Local JupyterLab |
+| Environment | UB CCR GPU cluster, Local JupyterLab |
 
 
